@@ -5,69 +5,69 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: XBMC Addons\n"
-"Report-Msgid-Bugs-To: alanwww1@xbmc.org\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2023-01-08 13:15+0000\n"
-"Last-Translator: HansCR <h.vanek@gmail.com>\n"
+"PO-Revision-Date: 2026-07-04 19:55+0000\n"
+"Last-Translator: Michal Várady <miko.vaji@gmail.com>\n"
 "Language-Team: Czech <https://kodi.weblate.cloud/projects/kodi-core/service-xbmc-versioncheck/cs_cz/>\n"
 "Language: cs_cz\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 4.15\n"
+"X-Generator: Weblate 2026.7\n"
 
 msgctxt "Addon Summary"
 msgid "Kodi Version Check checks if you are running latest released version."
-msgstr "Kontrola verze Kodi, zkontroluje, zda používáte nejnovější vydanou verzi."
+msgstr "Kontrola verze Kodi ověřuje, zda používáte nejnovější vydanou verzi."
 
 msgctxt "Addon Description"
 msgid "Kodi Version Check only supports a number of platforms/distros as releases may differ between them. For more information visit the kodi.tv website."
-msgstr "Kontrola verze Kodi podporuje pouze několik platforem/distribucí a verze mezi nimi se můžou lišit. Pro více informací navštivte webové stránky kodi.tv."
+msgstr "Kontrola verze Kodi podporuje jen některé platformy/distribuce, protože se jejich vydání mohou lišit. Další informace najdete na webu kodi.tv."
 
 msgctxt "Addon Disclaimer"
 msgid "Feel free to use this script. For information visit kodi.tv"
-msgstr "Neváhejte použít tento skript. Pro více informací navštivte kodi.tv"
+msgstr "Neváhejte použít tento skript. Další informace najdete na kodi.tv"
 
 msgctxt "#32001"
 msgid "We would like to recommend you to upgrade."
-msgstr "Rádi bychom vám doporučili upgrade."
+msgstr "Doporučujeme provést aktualizaci."
 
 msgctxt "#32002"
 msgid "Visit Kodi.tv for more information."
-msgstr "Navštivte Kodi.tv pro více informací."
+msgstr "Další informace najdete na Kodi.tv."
 
 msgctxt "#32009"
 msgid "Would you like to remove this reminder?"
-msgstr "Chtěli byste odstranit tuto připomínku?"
+msgstr "Chcete toto připomenutí odstranit?"
 
 msgctxt "#32010"
 msgid "You can enable/disable it through add-on settings."
-msgstr "Je možno povolit/zakázat v nastavení doplňku."
+msgstr "Kontrolu můžete zapnout nebo vypnout v nastavení doplňku."
 
 msgctxt "#32011"
 msgid "Use your package manager(apt) to upgrade."
-msgstr "Použijte správce balíčků (APT) k upgradu."
+msgstr "Použijte k aktualizaci správce balíčků (apt)."
 
 msgctxt "#32012"
 msgid "A new version is available, do you want to upgrade now?"
-msgstr "Nová verze je k dispozici, chcete upgradovat nyní?"
+msgstr "Je k dispozici nová verze. Chcete aktualizovat nyní?"
 
 msgctxt "#32013"
 msgid "Upgrade successful"
-msgstr "Aktualizace úspěšná"
+msgstr "Aktualizace byla úspěšná"
 
 msgctxt "#32014"
 msgid "Do you want to restart Kodi to finish the upgrade?"
-msgstr "Chcete restartovat Kodi pro dokončení aktualizace?"
+msgstr "Chcete restartovat Kodi, aby se aktualizace dokončila?"
 
 msgctxt "#32015"
 msgid "Do you want to check the repository for a new version?"
-msgstr "Chcete zjistit, jestli je v repositáři nová verze?"
+msgstr "Chcete zkontrolovat, zda je v repozitáři nová verze?"
 
 msgctxt "#32016"
 msgid "There is a newer stable Kodi version available."
-msgstr "Je k dispozici nová verze Kodi."
+msgstr "Je k dispozici novější stabilní verze Kodi."
 
 msgctxt "#32020"
 msgid "General"
@@ -75,19 +75,19 @@ msgstr "Obecné"
 
 msgctxt "#32021"
 msgid "Enable Kodi version check?"
-msgstr "Povolit kontrolu verze Kodi?"
+msgstr "Kontrolovat verzi Kodi?"
 
 msgctxt "#32022"
 msgid "Please enter your password"
-msgstr "Prosím, zadejte své heslo"
+msgstr "Zadejte prosím své heslo"
 
 msgctxt "#32023"
 msgid "Linux: Upgrade complete system"
-msgstr "Linux: Aktualizace celého systému"
+msgstr "Linux: Aktualizovat celý systém"
 
 msgctxt "#32024"
 msgid "Linux: Upgrade using apt"
-msgstr "Linux: Aktualizace za použití apt"
+msgstr "Linux: Aktualizovat pomocí apt"
 
 #. Used in OK dialog
 msgctxt "#32032"
@@ -97,7 +97,7 @@ msgstr "Je k dispozici nová stabilní verze Kodi."
 #. Direct people to the website. Used in OK dialog
 msgctxt "#32033"
 msgid "Visit http://kodi.tv for more information."
-msgstr "Navštivte http://kodi.tv pro více informací."
+msgstr "Další informace najdete na http://kodi.tv."
 
 #. For example: "You are using 13.1 prealpha while 13.2 stable is available"
 msgctxt "#32034"
@@ -107,20 +107,20 @@ msgstr "Používáte %s, ale už je k dispozici %s."
 #. Used in OK dialog
 msgctxt "#32035"
 msgid "It is recommended that you upgrade to a newer version."
-msgstr "Je doporučeno upgradovat na novou verzi."
+msgstr "Doporučujeme aktualizovat na novější verzi."
 
 # empty strings from id 32036 to 32039
 msgctxt "#32040"
 msgid "Your version %s of the Python cryptography module is too old. You need at least version 1.7."
-msgstr "Vaše verze %s Python kryptografického modulu je příliš stará. Potřebujete minimálně verzi 1.7."
+msgstr "Vaše verze modulu Python cryptography (%s) je příliš stará. Potřebujete alespoň verzi 1.7."
 
 msgctxt "#32041"
 msgid "Please upgrade your operating system."
-msgstr "Prosím aktualizujte váš operační systém."
+msgstr "Aktualizujte prosím svůj operační systém."
 
 msgctxt "#32042"
 msgid "For more information, see https://kodi.wiki/view/Linux"
-msgstr "Pro více informací navštivte https://kodi.wiki/view/Linux"
+msgstr "Další informace najdete na https://kodi.wiki/view/Linux"
 
 #~ msgctxt "#32030"
 #~ msgid "A new stable version of Kodi is available."
